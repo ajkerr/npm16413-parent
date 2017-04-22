@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "npm16413-intermediary": "git+ssh://git@github.com/ajkerr/npm16413-intermediary.git"
+    "npm16413-intermediary": "git+ssh://git@github.com/ajkerr/npm16413-intermediary.git",
+    "npm16413-leaf": "git+ssh://git@github.com/ajkerr/npm16413-leaf.git#dev-branch"
   }
 }
